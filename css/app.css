@@ -1,0 +1,40 @@
+.spaced {
+  margin-bottom: 70px !important;
+}
+
+.spaced:first-child {
+  margin-top: 50px;
+}
+
+.half-spaced {
+  margin-bottom: 35px !important;
+}
+
+.half-spaced:first-child {
+  margin-top: 25px;
+}
+
+.reveal pre code {
+  max-height: 600px;
+}
+
+.oitnb {
+  width: 400px;
+}
+
+.no-border {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.left {
+  float: left;
+  width: 250px;
+  text-align: center;
+}
+
+.spaced2 {
+  float: left;
+  margin-left: 250px !important;
+  margin-top: 50px !important;
+}
